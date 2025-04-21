@@ -1,6 +1,6 @@
 package advanced.ch07.sec10.exam02;
 
-public class AbstractMethodExmaple {
+public class AbstractMethodExample {
     public static void main(String[] args) {
         Dog dog = new Dog();
         dog.sound();
@@ -10,9 +10,10 @@ public class AbstractMethodExmaple {
 
         animalSound(new Dog());
         animalSound(new Cat());
+    }
 
-        public void animalSound(Animal,Animal){
-            animalSound.sound();
+        public static void animalSound(Animal animal){
+            animal.sound();
         }
     }
-}
+

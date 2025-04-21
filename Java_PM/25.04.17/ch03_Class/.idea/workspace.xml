@@ -5,41 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97597768-db67-4280-95cc-5991f9fd2304" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/problem/Apllication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/problem/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lecture/problem2/KindsOfVariable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec03/exam02/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec03/exam02/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec03/exam02/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec03/exam02/SmartPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec03/exam02/SmartPhoneExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec03/exam02/SmartPhoneExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec04/exam01/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec04/exam01/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec04/exam01/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec04/exam01/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec04/exam01/ComputerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec04/exam01/ComputerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec04/exam02/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec04/exam02/Airplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec04/exam02/SupersonicAirplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec04/exam02/SupersonicAirplane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec04/exam02/SupersonicAirplaneExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec04/exam02/SupersonicAirplaneExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam01/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam01/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam01/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam01/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam01/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam01/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam01/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam01/D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam01/E.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam01/E.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam01/PromotionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam01/PromotionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam02/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam02/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam02/ChildExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam02/ChildExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam02/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam02/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam03/Child.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam03/Child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam03/ChildExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam03/ChildExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam03/Parent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec07/exam03/Parent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam01/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam01/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam01/CarExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam01/CarExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam01/HankookTire.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam01/HankookTire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam01/KumhoTire.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam01/KumhoTire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam01/Tire.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam01/Tire.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam02/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam02/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam02/DiverExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam02/DiverExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam02/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam02/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam02/Taxi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam02/Taxi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam02/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../25.04.21/ch04_Inheritance/src/main/java/basic/ch07/sec08/exam02/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,24 +44,24 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.ch03_Class [:lecture.book.Application.main()].executor": "Run",
-    "Gradle.ch03_Class [:lecture.book.Application2.main()].executor": "Run",
-    "Gradle.ch03_Class [:lecture.problem.Apllication.main()].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/A/Desktop/BackEnd/Java_PM/25.04.17/ch03_Class",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.ch03_Class [:lecture.book.Application.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.ch03_Class [:lecture.book.Application2.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.ch03_Class [:lecture.problem.Apllication.main()].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/A/Desktop/BackEnd/Java_PM/25.04.17/ch03_Class&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Apllication">
     <configuration name="Apllication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lecture.problem.Apllication" />
@@ -164,7 +130,8 @@
       <workItem from="1745067432047" duration="596000" />
       <workItem from="1745242283101" duration="12000" />
       <workItem from="1745242344199" duration="76000" />
-      <workItem from="1745249744614" duration="952000" />
+      <workItem from="1745249744614" duration="1044000" />
+      <workItem from="1745251009435" duration="68000" />
     </task>
     <servers />
   </component>
