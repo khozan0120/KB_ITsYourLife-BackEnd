@@ -1,4 +1,4 @@
-package ch07.sec07.exam03;
+package basic.ch07.sec07.exam03;
 
 public class Parent {
     //필드 선언

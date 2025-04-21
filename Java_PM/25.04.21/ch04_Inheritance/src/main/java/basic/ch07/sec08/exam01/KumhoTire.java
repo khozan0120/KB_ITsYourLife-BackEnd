@@ -1,4 +1,4 @@
-package ch07.sec08.exam01;
+package basic.ch07.sec08.exam01;
 
 public class KumhoTire extends Tire {
     @Override

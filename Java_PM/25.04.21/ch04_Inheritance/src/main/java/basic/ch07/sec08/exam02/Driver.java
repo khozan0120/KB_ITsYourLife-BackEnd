@@ -1,4 +1,4 @@
-package ch07.sec08.exam02;
+package basic.ch07.sec08.exam02;
 
 public class Driver {
     public void dirve(Vehicle vehicle){

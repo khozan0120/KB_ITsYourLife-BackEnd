@@ -1,4 +1,4 @@
-package ch07.sec04.exam02;
+package basic.ch07.sec04.exam02;
 
 public class Airplane {
     public void land() {
