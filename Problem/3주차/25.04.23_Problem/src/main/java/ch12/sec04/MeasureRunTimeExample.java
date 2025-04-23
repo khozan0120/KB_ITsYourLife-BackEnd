@@ -10,7 +10,7 @@ public class MeasureRunTimeExample {
         }
         long time2 = System.nanoTime();
 
-        System.out.println("계산한 결과 : "  + sum);
-        System.out.println("계산 걸린 시간은 " + (time2-time1) +"입니다." );
+        System.out.println("1 ~ 1000000: "  + sum);
+        System.out.println("계산에 " + (time2-time1) +" 나노초가 소요되었습니다.." );
     }
 }

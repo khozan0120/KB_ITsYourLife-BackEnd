@@ -8,6 +8,7 @@ public class ExceptionHandlingExample2 {
         } catch (NullPointerException e) {
             System.out.println(e.getMessage());
 //            System.out.println(e.toString());
+//            e.printStackrace();
         } finally {
             System.out.println("[마무리 실행]\n");
         }

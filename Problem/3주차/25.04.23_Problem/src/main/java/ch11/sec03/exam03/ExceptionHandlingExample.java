@@ -10,7 +10,7 @@ public class ExceptionHandlingExample {
             } catch (ArrayIndexOutOfBoundsException e) {
                 System.out.println("배열의 인덱스가 초과 : " + e.getMessage());
             } catch (NumberFormatException  | NullPointerException e) {
-                System.out.println("매모리에 문제가 있음  : "  + e.getMessage());
+                System.out.println("데이터에 문제가 있음  : "  + e.getMessage());
             }
         }
     }
