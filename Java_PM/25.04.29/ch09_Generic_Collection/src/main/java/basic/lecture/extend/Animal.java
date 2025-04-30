@@ -1,4 +1,4 @@
-package basic.lecture.extend.run;
+package basic.lecture.extend;
 
 public interface Animal {
 }

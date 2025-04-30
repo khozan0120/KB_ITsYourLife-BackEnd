@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c0e3ecc-9e3d-4494-985e-05d1203cec93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/25.04.15/ch01_Variable-Type-Operator/lib/lombok-1.18.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/25.04.23/Lombok/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/25.04.23/Lombok/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/25.04.23/Lombok/.idea/libraries/lombok_1_18_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/25.04.23/Lombok/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/25.04.23/Lombok/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/25.04.23/Lombok/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/25.04.23/Lombok/lib/lombok-1.18.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/25.04.23/ch06_Exception_Handling/src/main/java/lecture/exception/section03/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/25.04.23/ch07_Java_Base/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/25.04.23/ch07_Java_Base/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/25.04.23/ch07_Java_Base/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/25.04.23/ch07_Java_Base/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/25.04.23/ch07_Java_Base/src/main/java/lecture/dto/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/25.04.23/ch07_Java_Base/src/main/java/lecture/dto/StudentDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/abc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/abc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/abc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/abc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Java_PM/abc/src/DTO.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="25.04.23_Homework" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Exception" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2w7VLgkfHqOvn40zHc9UGEIVLzl" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.25.04.23_Homework [:ch11.sec02.exam01.ExceptionHandlingExample1.main()].executor": "Run",
+    "Gradle.25.04.23_Homework [:ch11.sec02.exam01.ExceptionHandlingExample2.main()].executor": "Run",
+    "Gradle.25.04.23_Homework [:ch11.sec03.exam01.ExceptionHandlingExample.main()].executor": "Run",
+    "Gradle.25.04.23_Homework [:ch11.sec03.exam03.ExceptionHandlingExample.main()].executor": "Run",
+    "Gradle.25.04.23_Homework [:ch11.sec05.ThrowsExample.main()].executor": "Run",
+    "Gradle.25.04.23_Homework [:ch12.sec04.MeasureRunTimeExample.main()].executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/student/Desktop/BackEnd/Homework/3주차/25.04.23_Homework/lib/lombok-1.18.30.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\student\Desktop\BackEnd\Homework\3주차\25.04.23_Homework\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch11.sec02.exam01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MeasureRunTimeExample">
+    <configuration name="ExceptionHandlingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch11.sec03.exam01.ExceptionHandlingExample" />
+      <module name="25.04.23_Homework.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch11.sec03.exam01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionHandlingExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch11.sec02.exam01.ExceptionHandlingExample2" />
+      <module name="25.04.23_Homework.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch11.sec02.exam01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MeasureRunTimeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch12.sec04.MeasureRunTimeExample" />
+      <module name="25.04.23_Homework.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch12.sec04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThrowsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch11.sec05.ThrowsExample" />
+      <module name="25.04.23_Homework.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch11.sec05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch11.sec03.exam03.ExceptionHandlingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch11.sec03.exam03.ExceptionHandlingExample" />
+      <module name="25.04.23_Homework.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch11.sec03.exam03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MeasureRunTimeExample" />
+        <item itemvalue="Application.ThrowsExample" />
+        <item itemvalue="Application.ch11.sec03.exam03.ExceptionHandlingExample" />
+        <item itemvalue="Application.ExceptionHandlingExample" />
+        <item itemvalue="Application.ExceptionHandlingExample2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.24978.46" />
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-IU-243.24978.46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c0e3ecc-9e3d-4494-985e-05d1203cec93" name="Changes" comment="" />
+      <created>1745392545851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745392545851</updated>
+      <workItem from="1745392546788" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch12/sec03/exam02/Student.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
